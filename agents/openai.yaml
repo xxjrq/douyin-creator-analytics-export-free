@@ -1,0 +1,4 @@
+interface:
+  display_name: "免费抖音创作者数据导出"
+  short_description: "导出本人抖音创作者中心数据并生成可比较的日报与趋势摘要"
+  default_prompt: "使用 $douyin-creator-analytics-export-free 导出这个账号的抖音创作者数据。"
