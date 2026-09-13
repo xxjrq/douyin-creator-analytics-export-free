@@ -1,9 +1,11 @@
 name: douyin-creator-analytics-export-free
 display_name: 免费抖音创作者数据导出
-version: 1.0.0
-description: 免费、免第三方 API Key，读取本人抖音创作者中心可见数据并导出可比较的报表。
+slug: douyin-creator-analytics-export-free
+version: 1.0.1
+description: 免费、免第三方 API Key，通过已登录浏览器读取本人抖音创作者中心可见数据，导出可比较的日报和趋势报表。
 category: data-analysis
 author: xxjrq
+repository: https://github.com/xxjrq/douyin-creator-analytics-export-free
 tags:
   - douyin
   - creator-analytics
@@ -11,6 +13,12 @@ tags:
   - easy-webbridge
   - free
   - no-api-key
+trigger_words:
+  - 抖音创作者数据导出
+  - 抖音账号数据报表
+  - 抖音作品数据分析
+  - 抖音创作者中心导出
+  - 抖音运营日报
 license: MIT
 runtime:
   name: easy-webbridge
